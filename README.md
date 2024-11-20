@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ Skills & Technologies
 
 - **Frontend**: React, Next.js, TailwindCSS, HTML, CSS, JavaScript
-- **Tools**: Git, Docker, CI/CD, VSCode
+- **Tools**: Git, Docker, CI/CD, VSCode, Figma
 
 ---
 
@@ -35,13 +35,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcisse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tcisse=anuraghazra&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tcisse=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🔗 Connect with Me
 
-- LinkedIn: **[Your LinkedIn](https://linkedin.com/in/yourprofile)**
-- Twitter: **[@YourHandle](https://twitter.com/yourhandle)**
-- Blog: **[Your Blog](https://yourblog.com)**
+- LinkedIn: **[Tairou Cissé](https://linkedin.com/in/taïrou-cissé-a67841281/)**
+- Twitter: **[@TairouT](https://x.com/TairouT)**
 
 ---
 
