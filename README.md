@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tcisse=anuraghazra&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tcisse=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimetcisse=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
