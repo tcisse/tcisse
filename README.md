@@ -37,6 +37,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 [![Cisse's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tcisse=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🔗 Connect with Me
