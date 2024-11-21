@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **[Your Current Project Name](#)**
+- 🔭 I’m currently working at: **[Axa Zara](https://axazara.com)**
 - 🌱 I’m learning: **Next.js**, **TailwindCSS**, **Vuejs** and **Python**
 - 💬 Ask me about: **Web Development**, **API Design**, **React**
 - 📫 How to reach me: **[cisse.amidou@epitech.eu](mailto:cisse.amidou@epitech.eu)**
