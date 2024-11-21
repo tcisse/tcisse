@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ Skills & Technologies
 
 - **Frontend**: React, Next.js, TailwindCSS, HTML, CSS, JavaScript
-- **Tools**: Git, Docker, CI/CD, VSCode, Figma
+- **Tools**: Git, Docker, CI/CD, VSCode, Figma, JetBrains
 
 ---
 
