@@ -17,17 +17,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ Skills & Technologies
 
 
-<h3 align="center">
-# Frontend
-</h3>
+<h2 align="center">**Frontend**</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,vue,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,vue,tailwind" />
+  </a>
+</p>
 
-<div style="text-align: center;">
-**Tools**
-</div>
+<h3 align="center">**Tools**</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,webstorm,figma,githubactions,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,webstorm,figma,githubactions" />
+  </a>
+</p>
+
 ---
 
 ## 📂 Featured Projects
