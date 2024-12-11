@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 
 <div style="text-align: center;">
-**Frontend**
+Frontend
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,vue,tailwind)](https://skillicons.dev)
