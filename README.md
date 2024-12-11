@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ Skills & Technologies
 
 
-<h2 align="center">**Frontend**</h2>
+<h2 align="center"><strong>Frontend</strong></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
   </a>
 </p>
 
-<h3 align="center">**Tools**</h3>
+<h3 align="center">
+  <strong>
+    Tools
+  </strong>
+  </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
