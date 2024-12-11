@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
   </a>
 </p>
 
-<h3 align="center">
+<h2 align="center">
   <strong>
     Tools
   </strong>
-  </h3>
+  </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
