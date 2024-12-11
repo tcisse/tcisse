@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ Skills & Technologies
 
 
-<div style="text-align: center;">
+<h3 align="center">
 # Frontend
-</div>
+</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,vue,tailwind)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 **Tools**
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,webstorm,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,webstorm,figma,githubactions,)](https://skillicons.dev)
 ---
 
 ## 📂 Featured Projects
